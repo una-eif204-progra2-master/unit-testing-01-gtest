@@ -7,7 +7,11 @@
 
 
 class ISalary {
+public:
+    // Virtual Functions makes Person an abstract base class
+    virtual double salary() const = 0; // Pure Virtual
 
+    virtual ~ISalary();
 };
 
 

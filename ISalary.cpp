@@ -3,3 +3,7 @@
 //
 
 #include "ISalary.h"
+
+ISalary::~ISalary() {
+
+}
