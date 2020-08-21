@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(unit_testing_01_basic)
+project(unit_testing_01_gtest)
 
 set(CMAKE_CXX_STANDARD 14)
 
